@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://your-solution-url.com)
-- Live Site URL: [Here](https://your-live-site-url.com)
+- Solution URL: [Here](https://github.com/maiger/fem-social-proof-section)
+- Live Site URL: [Here](https://maiger.github.io/fem-social-proof-section/)
 
 ## My process
 
